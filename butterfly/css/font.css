@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'HuaKangBuDingTi';
+    font-display: swap;
+    src: url('../font/HuaKangBuDingTi.ttf') format("truetype");
+}
+
+body {
+    font-family: 'HuaKangBuDingTi';
+}
